@@ -107,14 +107,12 @@
             "id": "024a2dd9b88b70e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "example 1.md",
-                "mode": "source",
-                "source": false
+                "file": "newest.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "example 1"
+              "icon": "excalidraw-icon",
+              "title": "newest"
             }
           }
         ],
@@ -288,10 +286,21 @@
   },
   "active": "024a2dd9b88b70e1",
   "lastOpenFiles": [
-    "example 1.md",
-    "test.md",
+    "newest.excalidraw",
+    "Excalidraw/Libraries/aws-architecture-icons.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "aws-architecture-icons.excalidrawlib",
+    "newest.svg",
     "test2.md",
+    "test.md",
+    "example 1d.md",
+    "templates/textual.md",
+    "example 1d.svg",
     "test2.svg",
+    "testtemplate1.md",
+    "Untitled scene.excalidraw",
+    "example 1.svg",
     "Untitled 3.md",
     "Untitled 2.base",
     "Untitled 1.md",
@@ -300,19 +309,15 @@
     "Untitled 2.svg",
     "Untitled 3.svg",
     "test2.excalidraw",
-    "testtemplate1.md",
     "testtemplate1.svg",
     "Welcome.md",
     "templates/importedexcalidraw.md",
     "Untitled.base",
     "Untitled.canvas",
-    "templates/textual.md",
     "templates/test.md.excalidraw",
     "templates/textual 1.md",
     "Untitled 2.md",
     "Untitled.svg",
-    "title.md",
-    "templates",
-    "Excalidraw"
+    "title.md"
   ]
 }
